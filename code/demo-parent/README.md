@@ -27,3 +27,5 @@
 - demo test
 
 一些demo测试工程，引入其他组件的使用样例 hystrix zuul feign ribbon sleuth
+
+![image](https://github.com/RobertLiu0905/SpringBootRepo/blob/master/code/demo-parent/pic/WechatIMG1916.jpeg)
